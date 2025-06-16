@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Junyu Shi"
+description              : "I am now working on human motion related tasks, including understanding and generation. I also conduct research on AI for robotics. Please feel free to email me at jshi890@connect.hkust-gz.edu.cn. Welcome to discuss and cooperate. "
+repository               : "JunyuShi02/JunyuShi02.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junyu Shi"
   avatar           : "images/personal_picture.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "HKUST (Guangzhou)"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=pS9Cx7UAAAAJ&hl=zh-CN"
+  email            : "jshi890@connect.hkust-gz.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
