@@ -8,19 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am currently a second-year Ph.D. student in the Robotics and Autonomous Systems Thrust at The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Qiang Nie](https://scholar.google.com/citations?user=q-Qqa20AAAAJ&hl=en). Prior to this, I received my Bachelor's degree from the AI Special Class at Shenzhen University, under the supervision of Prof. [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN).
 
 My research currently centers on tasks related to human motion, specifically motion generation, prediction and understanding. In the next phase of my work, I aim to leverage large-scale human motion data to learn robotic motion priors for general-purpose control. Please feel free to email me at jshi890@connect.hkust-gz.edu.cn. Welcome to discuss and cooperate.
-
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted at TriFusion Workshop in SIGGRAPH AISA 2025. 
@@ -39,8 +31,6 @@ My research currently centers on tasks related to human motion, specifically mot
 
 </div>
 
-
-
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
@@ -49,7 +39,6 @@ My research currently centers on tasks related to human motion, specifically mot
 **Junyu Shi**, Yong Sun, Zhiyuan Zhang, Lijiang Liu, Zhengjie Zhang, Yuxin He, Qiang Nie
 
 </div>
-
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
@@ -70,8 +59,6 @@ Yong Sun, Zhengjie Zhang, **Junyu Shi**, Zhiyuan Zhang, Lijiang Liu, Qiang Nie
 
 </div>
 
-
-
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
@@ -81,8 +68,6 @@ Yong Sun, Yipeng Wang, **Junyu Shi**, Zhiyuan Zhang, Yanmei Xiao, Lei Zhu, Manxi
 
 </div>
 
-
-
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
@@ -91,8 +76,6 @@ Yong Sun, Yipeng Wang, **Junyu Shi**, Zhiyuan Zhang, Yanmei Xiao, Lei Zhu, Manxi
 Zhiyuan Zhang, Yuxin He, Yong Sun, **Junyu Shi**, Lijiang Liu, Qiang Nie
 
 </div>
-
-
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
