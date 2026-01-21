@@ -29,7 +29,7 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-[**Preprint** MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context](https://arxiv.org/abs/2510.02722)
+[MoGIC: Boosting Motion Generation via Intention Understanding and Visual Context](https://arxiv.org/abs/2510.02722), **Preprint**
 
 **Junyu Shi**, Yong Sun, Zhiyuan Zhang, Lijiang Liu, Zhengjie Zhang, Yuxin He, Qiang Nie
 
@@ -39,7 +39,7 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-[**ICCV 2025** GenM: Generative Pretrained Multi-path Motion Model for Text Conditional Human Motion Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_GenM3_Generative_Pretrained_Multi-path_Motion_Model_for_Text_Conditional_Human_ICCV_2025_paper.pdf)
+[GenM: Generative Pretrained Multi-path Motion Model for Text Conditional Human Motion Generation](https://openaccess.thecvf.com/content/ICCV2025/papers/Shi_GenM3_Generative_Pretrained_Multi-path_Motion_Model_for_Text_Conditional_Human_ICCV_2025_paper.pdf), **ICCV 2025**
 
 **Junyu Shi**, Lijiang Liu, Yong Sun, Zhiyuan Zhang, Jinni Zhou, Qiang Nie
 
