@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently a second-year Ph.D. student in the Robotics and Autonomous Systems Thrust at The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Qiang Nie](https://scholar.google.com/citations?user=q-Qqa20AAAAJ&hl=en). Prior to this, I received my Bachelor's degree from the AI Special Class at Shenzhen University, under the supervision of Prof. [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN).
 
 My research currently centers on tasks related to human motion, specifically motion generation, prediction and understanding. In the next phase of my work, I aim to leverage large-scale human motion data to learn robotic motion priors for general-purpose control. Please feel free to email me at jshi890@connect.hkust-gz.edu.cn. Welcome to discuss and cooperate.
 
