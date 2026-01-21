@@ -38,7 +38,6 @@ My research currently centers on tasks related to human motion, specifically mot
 **Junyu Shi**, Haoting Wu, Zhiyuan Zhang, Lijiang Liu, Yong Sun, Qiang Nie
 
 </div>
-</div>
 
 
 
@@ -50,7 +49,6 @@ My research currently centers on tasks related to human motion, specifically mot
 **Junyu Shi**, Yong Sun, Zhiyuan Zhang, Lijiang Liu, Zhengjie Zhang, Yuxin He, Qiang Nie
 
 </div>
-</div>
 
 
 <div class='paper-box'>
@@ -61,7 +59,6 @@ My research currently centers on tasks related to human motion, specifically mot
 Yong Sun, Zhengjie Zhang, **Junyu Shi**, Zhiyuan Zhang, Lijiang Liu, Qiang Nie
 
 </div>
-</div>
 
 
 <div class='paper-box'>
@@ -71,7 +68,6 @@ Yong Sun, Zhengjie Zhang, **Junyu Shi**, Zhiyuan Zhang, Lijiang Liu, Qiang Nie
 
 **Junyu Shi**, Lijiang Liu, Yong Sun, Zhiyuan Zhang, Jinni Zhou, Qiang Nie
 
-</div>
 </div>
 
 
@@ -84,7 +80,6 @@ Yong Sun, Zhengjie Zhang, **Junyu Shi**, Zhiyuan Zhang, Lijiang Liu, Qiang Nie
 Yong Sun, Yipeng Wang, **Junyu Shi**, Zhiyuan Zhang, Yanmei Xiao, Lei Zhu, Manxi Jiang, Qiang Nie
 
 </div>
-</div>
 
 
 
@@ -96,7 +91,6 @@ Yong Sun, Yipeng Wang, **Junyu Shi**, Zhiyuan Zhang, Yanmei Xiao, Lei Zhu, Manxi
 Zhiyuan Zhang, Yuxin He, Yong Sun, **Junyu Shi**, Lijiang Liu, Qiang Nie
 
 </div>
-</div>
 
 
 
@@ -107,6 +101,5 @@ Zhiyuan Zhang, Yuxin He, Yong Sun, **Junyu Shi**, Lijiang Liu, Qiang Nie
 
 **Junyu Shi**, Jianqi Zhong, Wenming Cao
 
-</div>
 </div>
 
