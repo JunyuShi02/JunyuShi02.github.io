@@ -100,7 +100,7 @@ Zhiyuan Zhang, Yuxin He, Yong Sun, **Junyu Shi**, Lijiang Liu, Qiang Nie
 
 [Multi-semantics aggregation network based on the dynamic-attention mechanism for 3d human motion prediction](https://ieeexplore.ieee.org/document/10306327), **Transactions on Multimedia 2024**
 
-Junyu Shi, Jianqi Zhong, Wenming Cao
+**Junyu Shi**, Jianqi Zhong, Wenming Cao
 
 </div>
 </div>
