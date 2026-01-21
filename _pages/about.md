@@ -17,6 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+My research currently centers on tasks related to human motion, specifically motion generation, prediction and understanding. In the next phase of my work, I aim to leverage large-scale human motion data to learn robotic motion priors for general-purpose control. Please feel free to email me at jshi890@connect.hkust-gz.edu.cn. Welcome to discuss and cooperate.
+
+
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted at TriFusion Workshop in SIGGRAPH AISA 2025. 
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted at AAAI 2026. Cong. to Yong Sun!
@@ -98,7 +102,7 @@ Zhiyuan Zhang, Yuxin He, Yong Sun, **Junyu Shi**, Lijiang Liu, Qiang Nie
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
-[Multi-semantics aggregation network based on the dynamic-attention mechanism for 3d human motion prediction](https://ieeexplore.ieee.org/document/10306327), **Transactions on Multimedia 2024**
+[Multi-semantics aggregation network based on the dynamic-attention mechanism for 3d human motion prediction](https://ieeexplore.ieee.org/document/10306327), **IEEE Transactions on Multimedia 2024**
 
 **Junyu Shi**, Jianqi Zhong, Wenming Cao
 
