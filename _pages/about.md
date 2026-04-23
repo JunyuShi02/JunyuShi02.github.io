@@ -12,25 +12,16 @@ redirect_from:
 
 I am currently a second-year Ph.D. student in the Robotics and Autonomous Systems Thrust at The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Qiang Nie](https://scholar.google.com/citations?user=q-Qqa20AAAAJ&hl=en). Prior to this, I received my Bachelor's degree from the AI Special Class at Shenzhen University, under the supervision of Prof. [Wenming Cao](https://scholar.google.com/citations?user=uPxjSDIAAAAJ&hl=zh-CN).
 
-My research currently centers on tasks related to human motion, specifically motion generation, prediction and understanding. In the next phase of my work, I aim to leverage large-scale human motion data to learn robotic motion priors for general-purpose control. Please feel free to email me at jshi890@connect.hkust-gz.edu.cn. Welcome to discuss and cooperate.
+My research currently centers on tasks related to human motion, specifically motion generation, physics character, and human-environmemt interaction. Please feel free to email me at jshi890@connect.hkust-gz.edu.cn. Welcome to discuss and cooperate.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper has been accepted by TNNLS.
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted at TriFusion Workshop in SIGGRAPH AISA 2025. 
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted at AAAI 2026. Cong. to Yong Sun!
 - *2025.06*: &nbsp;🎉🎉 One paper has been accepted at ICCV 2025. 
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted early at MICCAI 2025. Cong. to Yong Sun!
 
 # 📝 Publications 
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
-[MoReFun: Past-Movement Guided Motion Representation Learning for Future Motion Prediction and Understanding](https://arxiv.org/abs/2408.02091), **Preprint**
-
-**Junyu Shi**, Haoting Wu, Zhiyuan Zhang, Lijiang Liu, Yong Sun, Qiang Nie
-
-</div>
-</div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
@@ -79,6 +70,26 @@ Yong Sun, Yipeng Wang, **Junyu Shi**, Zhiyuan Zhang, Yanmei Xiao, Lei Zhu, Manxi
 [RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics](https://arxiv.org/abs/2504.02069), **Preprint**
 
 Zhiyuan Zhang, Yuxin He, Yong Sun, **Junyu Shi**, Lijiang Liu, Qiang Nie
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+[MoReFun: Past-Movement Guided Motion Representation Learning for Future Motion Prediction and Understanding](https://arxiv.org/abs/2408.02091), **Preprint**
+
+**Junyu Shi**, Haoting Wu, Zhiyuan Zhang, Lijiang Liu, Yong Sun, Qiang Nie
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+[Multiscale Graph Redefining: Correlation-Based Multiscale Graph Clustering Network for Human Motion Prediction](https://ieeexplore.ieee.org/document/11489065), **IEEE Transactions on Neural Networks and Learning Systems**
+
+Jianqi Zhong`*`, **Junyu Shi`*`**, Wenming Cao
 
 </div>
 </div>
